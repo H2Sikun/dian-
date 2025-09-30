@@ -1,5 +1,0 @@
-﻿D:\C++\app\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(caogao.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  main.cpp
-  seat_reservation.cpp
-  正在生成代码...
-  caogao.vcxproj -> D:\C++\Practice\caogao\x64\Debug\Level1.exe
